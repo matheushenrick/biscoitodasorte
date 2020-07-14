@@ -70,5 +70,5 @@ var biscoitoFrases = ['A vida trará coisas boas se tiveres paciência.',
 'Você sempre será a sua melhor companhia!',
 'Realize o óbvio, pense no improvável e conquiste o impossível'
 ];
- return biscoitoFrases[Math.floor(Math.random() * biscoitoFrases.length)];
+ document.getElementById("textoID").innerHTML = biscoitoFrases[Math.floor(Math.random() * biscoitoFrases.length)];
 }

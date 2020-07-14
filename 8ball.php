@@ -1,5 +1,5 @@
 <?php
-$m01="OBVIAMENTE MONA!"
+$m01="OBVIAMENTE MONA!";
 $m02="Nem minha avó acredita nessa.";
 $m03="Você deveria repensar nisso.";
 $m04="Se olhe no espelho e se pergunte novamente isso antes de passar vergonha aqui.";

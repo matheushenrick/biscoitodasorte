@@ -1,0 +1,80 @@
+<?php
+
+$m01="Defeitos e virtudes são apenas dois lados da mesma moeda.";
+$m02="A maior de todas as torres começa no solo.";
+$m03="Não há que ser forte. Há que ser flexível.";
+$m04="Gente todo dia arruma os cabelos, por que não o coração?";
+$m05="Há três coisas que jamais voltam; a flecha lançada, a palavra dita e a oportunidade perdida.";
+$m06="A juventude não é uma época da vida, é um estado de espírito.";
+$m07="Podemos escolher o que semear, mas somos obrigados a colher o que plantamos.";
+$m08="Dê toda a atenção para a formação dos teus filhos, sobretudo por exemplos de tua própria vida.";
+$m09="Siga os bons e aprenda com eles.";
+$m10="Não importa o tamanho da montanha, ela não pode tapar o sol.";
+$m11="O bom-senso vai mais longe do que muito conhecimento.";
+$m12="Quem quer colher rosas deve suportar os espinhos.";
+$m13="São os nossos amigos que nos ensinam as mais valiosas lições.";
+$m14="Uma iniciativa mal-sucedida não significa o final de tudo. Sempre existe uma nova oportunidade.";
+$m15="Aquele que se importa com o sentimento dos outros, não é um tolo.";
+$m16="A adversidade é um espelho que reflete o verdadeiro eu.";
+$m17="Lamentar aquilo que não temos é desperdiçar aquilo que já possuímos.";
+$m18="Uma bela flor é incompleta sem suas folhas.";
+$m19="Sem o fogo do entusiasmo, não há o calor da vitória.";
+$m20="Não há melhor negócio que a vida. A gente há obtém a troco de nada.";
+$m21="O riso é a menor distância entre duas pessoas.";
+$m22="Você é jovem apenas uma vez. Depois precisa inventar outra desculpa.";
+$m23="É mais fácil conseguir o perdão do que a permissão.";
+$m24="Os defeitos são mais fortes quando o amor é fraco.";
+$m25="Amizade e Amor são coisas que podem virar uma só num piscar de olhos.";
+$m26="Surpreender e ser surpreendido é o segredo do amor.";
+$m27="Faça pequenas coisas agora e maiores coisas lhe serão confiadas cada dia.";
+$m28="Todo mundo é capaz de denominar uma dor, exceto quem a sente.";
+$m29="A paciência na adversidade é o sinal de um coração sensível.";
+$m30="A sorte favorece a mente bem preparada.";
+$m31="Sua visão se tornará clara apenas quando você puder olhar dentro de seu coração.";
+$m32="Quem olha para fora sonha; quem olha para dentro acorda.";
+$m33="As pessoas se esquecerão do que você disse e do que você fez… mas nunca se esquecerão de como você as fez sentir.";
+$m34="Espere pelo mais sábio dos conselhos: o tempo.";
+$m35="Todas as coisas são difíceis antes de se tornarem fáceis.";
+$m36="Você pode encontrar a si mesmo fazendo ou dizendo coisas que você nunca imaginou possíveis.";
+$m37="Se você se sente só é porque construiu muros ao invés de pontes.";
+$m38="Vencer é 90 por cento suor e 40 por cento técnica.";
+$m39="O amor está mais próximo do que você imagina.";
+$m40="A vida coloca em nossa frente opções.";
+$m41="Você é do tamanho do seu sonho.";
+$m42="Pare de procurar eternamente; a felicidade está bem ao seu lado.";
+$m43="Conhecimento é a única virtude e ignorância é o único vício.";
+$m44="O nosso primeiro e último amor é… o amor-próprio.";
+$m45="Deixe de lado as preocupações e seja feliz.";
+$m46="A vontade das pessoas é a melhor das leis.";
+$m47="Nós somos o que pensamos.";
+$m48="A maior barreira para o sucesso é o medo do fracasso.";
+$m49="O pessimista vê a dificuldade em cada oportunidade; O otimista vê a oportunidade em cada dificuldade.";
+$m50="Muitas das grandes realizações do mundo foram feitas por homens cansados e desanimados que continuaram trabalhando.";
+$m51="O insucesso é apenas uma oportunidade para recomeçar de novo com mais inteligência.";
+$m52="O futuro pertence àqueles que acreditam na beleza de seus sonhos.";
+$m53="Coragem é a resistência ao medo, domínio do medo, e não a ausência do medo.";
+$m54="O verdadeiro homem mede a sua força, quando se defronta com o obstáculo.";
+$m55="Você precisa fazer aquilo que pensa que não é capaz de fazer.";
+$m56="Quem quer vencer um obstáculo deve armar-se da força do leão e da prudência da serpente.";
+$m57="A adversidade desperta em nós capacidades que, em circunstâncias favoráveis, teriam ficado adormecidas.";
+$m58="A vida é para quem topa qualquer parada. Não para quem pára em qualquer topada.";
+$m59="Motivação não é sinônimo de transformação, mas um passo em sua direção.";
+$m60="O que empobrece o ser humano, não é a falta de dinheiro, mais sim, a falta de fé,motivação e criatividade.";
+$m61="Inspiração vem dos outros. Motivação vem de dentro de nós.";
+$m62="Não acredite mais em pessoas especiais, mas em momentos especiais com pessoas habituais.";
+$m63="“A nossa vida tem 4 sentidos…amar, sofrer, lutar e vencer. Ame muito, sofra pouco,lute bastante e vença sempre!”";
+$m64="Nada é por acaso…Acredite em seus sonhos e nos seus potenciais….Na vida tudo se supera..";
+$m65="Acredite em milagres, mas não dependa deles.";
+$m66="Você sempre será a sua melhor companhia!";
+$m67="Realize o óbvio, pense no improvável e conquiste o impossível";
+$m68="A vida trará coisas boas se tiveres paciência.";
+$m69="Demonstre amor e alegria em todas as oportunidades e verás que a paz nasce dentro de você.";
+$m70="Não compense na ira o que lhe falta na razão.";
+
+$rm = array($m01,$m02,$m03,$m04,$m05,$m06,$m07,$m08,$m09,$m10,$m11,$m12,$m13,$m14,$m15,$m16,$m17,$m18,$m19,$m20,$m21,$m22,$m23,$m24,$m25,$m26,$m27,$m28,$m29,$m30,$m31,$m32,$m33,$m34,$m35,$m36,$m37,$m38,$m39,$m40,$m41,$m42,$m43,$m44,$m45,$m46,$m47,$m48,$m49,$m50,$m51,$m52,$m53,$m54,$m55,$m56,$m57,$m58,$m59,$m60,$m61,$m62,$m63,$m64,$m65,$m66,$m67,$m68,$m69,$m70);
+
+$random_keys = array_rand($rm,1);
+
+echo $rm[$random_keys];
+
+?>
